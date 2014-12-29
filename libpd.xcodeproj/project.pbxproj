@@ -193,11 +193,11 @@
 		5F4B42121A50C6760017B74F /* PdBase.h in Headers */ = {isa = PBXBuildFile; fileRef = 0E82A0AA12EEFE5E0053280E /* PdBase.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5F4B42131A50C6760017B74F /* PdDispatcher.h in Headers */ = {isa = PBXBuildFile; fileRef = 5828C8B31409C8C600F8B9AC /* PdDispatcher.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5F4B42141A50C6760017B74F /* PdFile.h in Headers */ = {isa = PBXBuildFile; fileRef = 0E8C8DC81312007F000B9D7A /* PdFile.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		5F4B42151A50C6760017B74F /* AudioHelpers.h in Headers */ = {isa = PBXBuildFile; fileRef = 110E6DCE147B838E00282ABC /* AudioHelpers.h */; };
+		5F4B42151A50C6760017B74F /* AudioHelpers.h in Headers */ = {isa = PBXBuildFile; fileRef = 110E6DCE147B838E00282ABC /* AudioHelpers.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5F4B42161A50C6760017B74F /* z_hooks.h in Headers */ = {isa = PBXBuildFile; fileRef = 304C8ED91860FA2D006D2159 /* z_hooks.h */; };
-		5F4B42171A50C6760017B74F /* PdAudioController.h in Headers */ = {isa = PBXBuildFile; fileRef = 110E6DD0147B838F00282ABC /* PdAudioController.h */; };
-		5F4B42181A50C6760017B74F /* PdAudioUnit.h in Headers */ = {isa = PBXBuildFile; fileRef = 110E6DD2147B838F00282ABC /* PdAudioUnit.h */; };
-		5F4B42191A50C6760017B74F /* PdMidiDispatcher.h in Headers */ = {isa = PBXBuildFile; fileRef = 30E9358416ADA07E009BFE25 /* PdMidiDispatcher.h */; };
+		5F4B42171A50C6760017B74F /* PdAudioController.h in Headers */ = {isa = PBXBuildFile; fileRef = 110E6DD0147B838F00282ABC /* PdAudioController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		5F4B42181A50C6760017B74F /* PdAudioUnit.h in Headers */ = {isa = PBXBuildFile; fileRef = 110E6DD2147B838F00282ABC /* PdAudioUnit.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		5F4B42191A50C6760017B74F /* PdMidiDispatcher.h in Headers */ = {isa = PBXBuildFile; fileRef = 30E9358416ADA07E009BFE25 /* PdMidiDispatcher.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5F4B421A1A50C6760017B74F /* ringbuffer.h in Headers */ = {isa = PBXBuildFile; fileRef = 306DBE5116BC6710007CF226 /* ringbuffer.h */; };
 		5F4B421B1A50C6760017B74F /* z_queued.h in Headers */ = {isa = PBXBuildFile; fileRef = 306DBE5516BC6710007CF226 /* z_queued.h */; };
 		5F4B421C1A50C6760017B74F /* z_print_util.h in Headers */ = {isa = PBXBuildFile; fileRef = 3088882D16BCB4A400781682 /* z_print_util.h */; };
@@ -643,10 +643,10 @@
 				5F4B42131A50C6760017B74F /* PdDispatcher.h in Headers */,
 				5F4B42141A50C6760017B74F /* PdFile.h in Headers */,
 				5F4B42151A50C6760017B74F /* AudioHelpers.h in Headers */,
-				5F4B42161A50C6760017B74F /* z_hooks.h in Headers */,
 				5F4B42171A50C6760017B74F /* PdAudioController.h in Headers */,
 				5F4B42181A50C6760017B74F /* PdAudioUnit.h in Headers */,
 				5F4B42191A50C6760017B74F /* PdMidiDispatcher.h in Headers */,
+				5F4B42161A50C6760017B74F /* z_hooks.h in Headers */,
 				5F4B421A1A50C6760017B74F /* ringbuffer.h in Headers */,
 				5F4B421B1A50C6760017B74F /* z_queued.h in Headers */,
 				5F4B421C1A50C6760017B74F /* z_print_util.h in Headers */,
